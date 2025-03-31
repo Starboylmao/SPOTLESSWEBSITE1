@@ -657,6 +657,11 @@ button
   -webkit-transform: scale(1.15) rotate(90deg);
           transform: scale(1.15) rotate(90deg);
 }
+.arrow-up {
+  width: 50px; /* Adjust the size as needed */
+  height: 50px;
+  color: #000; /* Adjust the color as needed */
+}
 @media screen and (max-width: 992px) {
   .mil-button {
     height: 60px;
