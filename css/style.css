@@ -384,23 +384,23 @@ a {
 }
 
 .mil-first {
-  color: rgb(255, 255, 0) !important;
+  color: rgb(255, 215, 0) !important;
 }
 
 .mil-second {
-  color: grey !important;
+  color: rgb(192, 192, 192) !important;
 }
 
 .mil-third {
-  color: brown !important;
+  color: rgb(205, 127, 50) !important;
 }
 
 .mil-fourth {
-  color: blue !important;
+  color: rgb(150, 200, 220) !important;
 }
 
 .mil-fifth {
-  color: blue !important;
+  color: rgb(150, 200, 220) !important;
 }
 
 .mil-light {
